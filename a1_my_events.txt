@@ -1,0 +1,28 @@
+0 DriverRequest Magnolia 1,1 1
+0 DriverRequest Narcissus 1,2 1
+0 DriverRequest Orchid 3,1 1
+0 DriverRequest Poppy 3,2 1
+0 DriverRequest Quince 4,2 1
+0 DriverRequest Rose 5,2 1
+
+# RiderRequest events
+0 RiderRequest Lemon 1,1 5,5 10
+5 RiderRequest Mango 3,2 2,3 5
+10 RiderRequest Nutmeg 4,2 1,5 15
+15 RiderRequest Olive 5,1 4,3 5
+20 RiderRequest Papaya 3,4 3,1 1
+25 RiderRequest Quince 2,1 2,5 10
+
+30 DriverRequest Sage 2,2 1
+30 DriverRequest Thistle 4,1 1
+30 DriverRequest Ulex 5,3 1
+30 DriverRequest Verbena 1,3 1
+30 DriverRequest Wisteria 2,4 1
+30 DriverRequest Xylosma 3,3 1
+
+35 RiderRequest Raspberry 1,2 5,4 8
+40 RiderRequest Saffron 2,3 4,4 12
+45 RiderRequest Tarragon 4,1 3,5 7
+50 RiderRequest Ugni 5,2 2,1 10
+55 RiderRequest Vanilla 3,1 1,4 5
+60 RiderRequest Whitebeam 2,5 5,3 15
